@@ -1,5 +1,8 @@
-numpy
-pandas
+flwr>=1.7.0
+tensorflow>=2.15.0
 scikit-learn
-tensorflow
-pyyaml
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
