@@ -1,0 +1,11 @@
+{
+    "dataset_path": "datasets\\cold_chain\\synthetic_iot_dataset_challenging.csv",
+    "timestamp_col": "Temperature",
+    "feature_cols": [
+        "Temperature"
+    ],
+    "window_size": 24,
+    "n_features": 1,
+    "anomaly_count": 0,
+    "anomaly_pct": 0.0
+}

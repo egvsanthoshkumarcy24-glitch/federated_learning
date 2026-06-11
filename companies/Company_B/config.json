@@ -1,0 +1,11 @@
+{
+    "dataset_path": "datasets\\energy\\predictive_maintenance_dataset.csv",
+    "timestamp_col": "timestamp",
+    "feature_cols": [
+        "IMF_1"
+    ],
+    "window_size": 24,
+    "n_features": 1,
+    "anomaly_count": 662,
+    "anomaly_pct": 37.27477477477478
+}

@@ -1,0 +1,11 @@
+{
+    "dataset_path": "datasets\\energy\\predictive_maintenance_dataset.csv",
+    "timestamp_col": "timestamp",
+    "feature_cols": [
+        "temperature"
+    ],
+    "window_size": 24,
+    "n_features": 1,
+    "anomaly_count": 240,
+    "anomaly_pct": 13.513513513513514
+}

@@ -1,0 +1,8 @@
+{
+    "dataset_path": "datasets\\cold_chain\\clean_unlabeled_autoencoder.csv",
+    "timestamp_col": "Temperature",
+    "feature_cols": [
+        "Temperature",
+        "Humidity"
+    ]
+}

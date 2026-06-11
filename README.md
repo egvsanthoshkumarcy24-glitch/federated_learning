@@ -9,8 +9,7 @@ It is designed to support federated learning where each device acts as a client.
 
 ## Components
 
-- model_pipeline.py → model + training
-- client_data.py → device → client mapping
+- models/lstm_autoencoder.py → model definition
 - detection_utils.py → anomaly grouping (optional)
 - config.yaml → parameters
 
