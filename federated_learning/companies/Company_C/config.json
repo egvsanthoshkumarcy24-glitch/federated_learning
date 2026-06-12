@@ -1,0 +1,11 @@
+{
+    "dataset_path": "companies/Company_C/datasets\\iot_telemetry_data.csv",
+    "timestamp_col": "ts",
+    "feature_cols": [
+        "humidity",
+        "temp"
+    ],
+    "label_col": "humidity",
+    "window_size": 24,
+    "n_features": 2
+}

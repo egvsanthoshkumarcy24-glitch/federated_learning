@@ -1,0 +1,10 @@
+{
+    "dataset_path": "companies/Company_B/datasets\\predictive_maintenance_dataset.csv",
+    "timestamp_col": "timestamp",
+    "feature_cols": [
+        "temperature"
+    ],
+    "label_col": "temperature",
+    "window_size": 24,
+    "n_features": 1
+}

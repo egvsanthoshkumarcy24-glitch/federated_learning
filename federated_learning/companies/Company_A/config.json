@@ -1,0 +1,10 @@
+{
+    "dataset_path": "companies/Company_A/datasets\\iot_telemetry_data.csv",
+    "timestamp_col": "ts",
+    "feature_cols": [
+        "smoke"
+    ],
+    "label_col": "device",
+    "window_size": 24,
+    "n_features": 1
+}

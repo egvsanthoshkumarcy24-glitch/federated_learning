@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+env/
+federated_learning/companies/*/datasets/*
+federated_learning/companies/*/models/*
+federated_learning/models/weights/*
+federated_learning/eval/*
+.DS_Store
+*.zip
+temp_repo/

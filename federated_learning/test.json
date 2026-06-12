@@ -1,0 +1,5 @@
+{
+    "timestamp_col": "Timestamp",
+    "feature_cols": ["Temperature", "Humidity"],
+    "label_col": "Anomaly"
+}

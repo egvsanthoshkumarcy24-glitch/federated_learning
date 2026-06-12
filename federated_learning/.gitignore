@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (these are large and should be generated locally)
+data/raw/*.csv
+data/processed/*.csv
+data/node_*/*.csv
+*.csv
+
+# Model Weights
+models/weights/*.h5
+*.h5
+*.pkl
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/
